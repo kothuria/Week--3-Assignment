@@ -1,0 +1,6 @@
+SKU,Description,Location,OnHandQty,ReorderPoint,UnitCost
+SKU00001,Product-101,WH1,50,30,15.75
+SKU00002,Product-202,WH2,10,25,22.40
+SKU00003,Product-303,WH3,100,60,9.99
+SKU00004,Product-404,WH1,5,20,18.20
+SKU00005,Product-505,WH2,200,100,5.50
